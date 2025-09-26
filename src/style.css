@@ -3,3 +3,26 @@
 body{
     background: white;
 }
+.cuerpo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
+.escusas {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: rgb(0, 170, 255);
+}
+.pic {
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.twss {
+    width: 0 auto;
+}
